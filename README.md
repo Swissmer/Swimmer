@@ -12,4 +12,4 @@
 [<img align="left" alt="Daniil Semyonov | Post" width="22px" src="https://cdn.simpleicons.org/gmail/#EA4335" />][post]
 
 [telegram]: http://t.me/swissmer
-[post]: daniil.ios.semyonov@yandex.ru
+[post]: mailto:daniil.ios.semyonov@yandex.ru

@@ -8,5 +8,8 @@
 
 #### Connect with me:
 
+[<img align="left" alt="Daniil Semyonov | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/#26A5E4" />][telegram]
+[<img align="left" alt="Daniil Semyonov | Post" width="22px" src="https://cdn.simpleicons.org/gmail/#EA4335" />][post]
+
 [telegram]: http://t.me/swissmer
 [post]: daniil.ios.semyonov@yandex.ru

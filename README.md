@@ -3,7 +3,7 @@
 ✨ My name is **Daniil**. 
 
 - I've been working as an iOS developer
-- I was working on different products and was involved in different teams
+- There is experience in team projects at school 21
 - I write mobile applications using UIKit and SwiftUI
 
 #### Connect with me:

@@ -6,6 +6,10 @@
 - There is experience in team projects at school 21
 - I write mobile applications using UIKit and SwiftUI
 
+My activity on gitlab (school 21):
+
+![image](./misc/images/gitlab.png)
+
 #### Connect with me:
 
 [<img align="left" alt="Daniil Semyonov | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/#26A5E4" />][telegram]
